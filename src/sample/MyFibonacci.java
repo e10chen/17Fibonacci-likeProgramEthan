@@ -1,5 +1,6 @@
 package sample;
 public class MyFibonacci implements Fibonacci {
+      //
         int amountofNums = 0;
         int num1 = 3;
         int num2 = 8;
